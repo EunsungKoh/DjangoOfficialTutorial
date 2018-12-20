@@ -7,7 +7,7 @@
 	- But, This code is following 1.11 version of official Django's documentation by mistake.
 
 - tree of the code
-> ```
+```
 tree ./
 ./
 ├── mysite
