@@ -1,5 +1,5 @@
 # Django Tutorial
-
+> https://docs.djangoproject.com/ko/1.11/intro/
 - This code is made by Eunsung Koh.
 - Env
 	- Linux, Ubuntu 18.04.1 LTS
