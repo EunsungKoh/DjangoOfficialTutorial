@@ -7,6 +7,7 @@
 	- But, This code is following 1.11 version of official Django's documentation by mistake.
 
 - tree of the code
+```
 tree ./
 ./
 ├── mysite
@@ -48,4 +49,4 @@ tree ./
 │       ├── views.py
 │       └── views.pyc
 └── Readme.MD
-
+```
