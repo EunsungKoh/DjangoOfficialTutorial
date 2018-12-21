@@ -1,5 +1,6 @@
 # Django Tutorial
 > https://docs.djangoproject.com/ko/1.11/intro/
+- python manage.py nserver 7070
 - This code is made by Eunsung Koh.
 - Env
 	- Linux, Ubuntu 18.04.1 LTS
