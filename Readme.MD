@@ -1,6 +1,12 @@
 # Django Tutorial
 > https://docs.djangoproject.com/ko/1.11/intro/
-- python manage.py nserver 7070
+
+> - Usage :
+>	- python manage.py nserver 7070
+>	- http://127.0.0.1:7070/polls/
+>	- http://127.0.0.1:7070/admin/
+>		- admin
+>		- 123qwe123
 - This code is made by Eunsung Koh.
 - Env
 	- Linux, Ubuntu 18.04.1 LTS
