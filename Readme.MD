@@ -7,6 +7,12 @@
 	- python 3.6.7
 	- But, This code is following 1.11 version of official Django's documentation by mistake.
 
+- Usage:
+	- $ ~/officialDocumentation/mysite# python3.6 -m venv env
+	- $ ~/officialDocumentation/mysite# source env/bin/activate
+	- $ pip install django==1.11.0
+	- $ /officialDocumentation/mysite# python manage.py runserver
+
 - tree of the code
 ```
 tree ./
